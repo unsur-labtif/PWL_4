@@ -1,0 +1,2 @@
+nama    : lintang bagas satrio
+kelas   :if c 2020
